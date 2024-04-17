@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
-import runningImage from '../running.jpeg';
+
 
 function TopRightContainer() {
   return (
