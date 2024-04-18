@@ -4,7 +4,7 @@ function About({clickCommand}) {
   return (
     <div className="text-gray-300">
         <div key="about">
-            <span >Hello! 👋 Im currently a first year student studying at Royal Holloway univeristy of london.</span>
+            <span >Hello! 👋 Im currently a first year student studying computer science at Royal Holloway univeristy of london.</span>
             <br />
             <br />
             <span>

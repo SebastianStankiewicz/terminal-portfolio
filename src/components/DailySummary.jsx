@@ -3,7 +3,7 @@ import { FaSun, FaCloudRain } from 'react-icons/fa';
 
 function DailySummary() {
 
-    const date = new Date();
+
     const [temp, setTemp] = useState('');
     const [icon, setIcon] = useState('');
     

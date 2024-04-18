@@ -11,8 +11,7 @@ function Terminal() {
     const [command, setCommand] = useState('');
     const [finishedDisplayingOutput, setfinishedDisplayingOutput] = useState(true);
 
-    const [output, setOutput] = useState([<span>Hello, welcome to my web portfolio.</span>, <br></br>, <span>Type</span>, <span className='text-cyan-200 hover:bg-blue-700 ' onClick={() => clickCommand("help")}> help </span>, <span> for a list of commands and tab to autocomplete</span>]);
-    
+    const [output, setOutput] = useState([<span>Hello, welcome to my web portfolio.</span>, <br></br>, <span>Type</span>, <span className='text-cyan-200 hover:bg-blue-700 ' onClick={() => clickCommand("help")}> help </span>, <span> for a list of commands and tab to autocomplete</span>, <br></br>]);
     
 
 

@@ -1,8 +1,6 @@
 import './App.css';
-import NameLogo from './components/NameLogo';
 import PageContents from './components/PageContents';
-import RightSide from './components/RightSide';
-import Terminal from './components/Terminal';
+
 
 function App() {
   return (

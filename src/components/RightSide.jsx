@@ -1,5 +1,4 @@
 import React from 'react'
-import TopRightContainer from './TopRightContainer'
 import CoinPrice from './CoinPrice'
 import { FaBitcoin, FaEthereum } from 'react-icons/fa';
 import DailySummary from './DailySummary';
