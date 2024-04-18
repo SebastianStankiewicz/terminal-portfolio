@@ -15,5 +15,5 @@ By Sebastian Stankiewicz
 
 ## Screenshot
 
-![Imgur Image](https://imgur.com/bo9xO3H.png)
+![Imgur Image](https://imgur.com/WW0uoJe.png)
 
